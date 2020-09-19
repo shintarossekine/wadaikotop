@@ -361,7 +361,7 @@ text-align: center;
     
     .midashiSen {
 display: block;
-width: 22%;
+width: 56px;
 border-bottom: solid 2px #00bfff;
 margin-left: auto;
 margin-right: auto;
@@ -449,7 +449,7 @@ margin-top: 20px;
     }
     
     #voiceMidashi {
-    width: 160px;    
+    width: 100%;    
     text-align: center;    
     margin-right: auto;
     margin-left: auto; 
